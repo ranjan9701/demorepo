@@ -4,7 +4,7 @@ transfer-benefits:
   partner:
     ua:
       communication: 
-        type: Rest12
+        type: Rest
         postCurrency:
           method: Post
           header:
