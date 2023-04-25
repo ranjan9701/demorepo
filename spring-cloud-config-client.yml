@@ -1,5 +1,5 @@
 server.port: 8080
-welcome.message: "hello09"
+welcome.message: "Welcome Default"
 transfer-benefits:
   partner:
     ua:
