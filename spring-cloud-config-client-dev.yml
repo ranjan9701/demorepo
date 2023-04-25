@@ -1,10 +1,10 @@
 server.port: 8080
-welcome.message: "Welcome Dev"
+welcome.message: "Welcome Dev 12"
 transfer-benefits:
   partner:
     ua:
       communication: 
-        type: Rest12
+        type: Rest222
         postCurrency:
           method: Post
           header:
