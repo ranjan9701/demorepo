@@ -88,8 +88,8 @@ transfer-benefits:
                           format: yyyy-MM-dd'T'HH:mm:ss'Z'
                 - attribute: earningType
                   type: string
-                  refer: jsonPath
-                  value: $.partnerInformation.partnerEarningType
+                  refer: env-variable
+                  value: ${UA_BENEFIT_TYPE_BONUS:Bonus}
             bentype:
               requestMapping:
                 - attribute: accountDetails
