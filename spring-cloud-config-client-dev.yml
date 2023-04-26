@@ -1,4 +1,4 @@
-server.port: 8080
+#server.port: 8080
 welcome.message: "Welcome Dev 1"
 transfer-benefits:
   partner:
