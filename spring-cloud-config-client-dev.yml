@@ -1,9 +1,9 @@
-welcome.message: "Welcome Dev 111"
+welcome.message: "Welcome Dev "
 transfer-benefits:
   partner:
     ua:
       communication: 
-        type: Rest123
+        type: Rest
         postCurrency:
           method: Post
           header:
